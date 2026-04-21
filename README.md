@@ -1,6 +1,8 @@
 
 
 # Predicting Patient Copay Using Medicare Pricing Data
+🔗 **Blog Post:**  
+[How Medicare Pricing Affects Patient Copay](https://medium.com/@lyanealrashoud/how-medicare-pricing-affects-patient-copay-9cc4782d59a5) 
 
 ## Overview
 
