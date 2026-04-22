@@ -64,3 +64,17 @@ The analysis showed a strong relationship between Medicare pricing and patient c
 It was also observed that the most common pricing value (mode) plays a noticeable role in predicting the copay.
 
 
+## Acknowledgements
+
+- Data Source:  
+  **Centers for Medicare & Medicaid Services (CMS)**  
+  *Physician Office Visit Costs Dataset*  
+  [Dataset Link](https://data.cms.gov/provider-data/dataset/029b-dd7e)
+
+- This dataset is publicly available and provided by the U.S. government through CMS.
+
+- This project was completed as part of the Udacity Data Science Nanodegree.
+
+
+
+
