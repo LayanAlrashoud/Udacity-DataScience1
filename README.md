@@ -63,6 +63,7 @@ The analysis showed a strong relationship between Medicare pricing and patient c
 
 It was also observed that the most common pricing value (mode) plays a noticeable role in predicting the copay.
 
+---
 
 ## Acknowledgements
 
